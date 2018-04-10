@@ -1,0 +1,13 @@
+.wrapper{
+    background-color: aqua;
+    border: dimgray solid 5px;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+.button1{
+    background-color: black;
+    border-radius: 20px;
+    color: wheat;
+}

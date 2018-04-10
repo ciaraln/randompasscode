@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+        <meta charset='utf-8'>
+        <!-- // In this context '~' refers to the wwwroot folder -->
+        <link rel="stylesheet" href="~/css/style.css"/>
+        <!-- <link rel="stylesheet" href="/css/style.css"/> -->
+    <title>Random Passcode Genrator</title>
+  </head>
+  <body>
+    <div class="wrapper">
+
+    <h1> Random Passcode Genrator <u>(passcode #@ViewBag.Count)</u> times. </h1>
+    <p> Random Passcode: @ViewBag.passcode</p>
+    
+      
+        <a href="/Home" class="button1">Genrator</a> |
+        <a href="/reset" class="button1">Reset</a>
+
+    </div>
+  </body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\bin\Debug\netcoreapp2.0\randompasscode.deps.json
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\bin\Debug\netcoreapp2.0\randompasscode.runtimeconfig.json
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\bin\Debug\netcoreapp2.0\randompasscode.runtimeconfig.dev.json
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\bin\Debug\netcoreapp2.0\randompasscode.dll
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\bin\Debug\netcoreapp2.0\randompasscode.pdb
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\obj\Debug\netcoreapp2.0\randompasscode.csproj.CoreCompileInputs.cache
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\obj\Debug\netcoreapp2.0\randompasscode.AssemblyInfoInputs.cache
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\obj\Debug\netcoreapp2.0\randompasscode.AssemblyInfo.cs
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\obj\Debug\netcoreapp2.0\randompasscode.dll
+C:\Users\ciara\Documents\CodingDojo\c#\randompasscode\obj\Debug\netcoreapp2.0\randompasscode.pdb
